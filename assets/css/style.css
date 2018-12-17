@@ -38,3 +38,19 @@ body {
   text-align: center;
   padding: 20px;
 }
+
+#random_number {
+  margin-top: 10px;
+}
+
+#wins {
+  margin-top: 10px;
+}
+
+#losses {
+  margin-top: 10px;
+}
+
+#total_score {
+  margin-top: 10px;
+}
