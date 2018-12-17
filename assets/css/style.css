@@ -1,0 +1,40 @@
+header {
+  background-color: black;
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 23pt;
+  text-align: center;
+  padding: 15px;
+}
+body {
+  background-color: darkblue;
+}
+.row {
+  display: flex;
+}
+
+#instructions {
+  background-color: black;
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 12pt;
+  line-height: 150%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+  padding: 15px;
+  float: left;
+}
+
+.scoreboard {
+  background-color: black;
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 14pt;
+  margin: 15px;
+  text-align: center;
+  padding: 20px;
+}
