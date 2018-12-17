@@ -15,14 +15,6 @@ function playGame() {
   var randomNumber = Math.floor(Math.random() * 500) + 1;
   $("#random_number").text(randomNumber);
 
-  // function resetGame() {
-  //   // var totalScore = 0;
-  //   // $("#total_score").text(totalScore);
-  //   console.log("GAME HAS BEEN RESET");
-  //   console.log(totalScore);
-  //   console.log(randomNumber);
-  // }
-
   $("#total_score").text(totalScore);
 
   $("#mind_stone").click(function() {
